@@ -1,4 +1,4 @@
-# Public project overview. Full source code available on request.
+# Full source code available on request.
 
 ## E-commerce_LiquorStore
 
