@@ -1,4 +1,9 @@
-# Full source code available on request.
+# ## Source Code
+
+The full source code is maintained in a private repository and can be shared with recruiters or collaborators upon request.
+
+🔗 Live preview: https://darlak.onrender.com/home
+
 
 ## Preview
 
