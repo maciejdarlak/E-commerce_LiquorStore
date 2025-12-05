@@ -1,5 +1,9 @@
 # Full source code available on request.
 
+## Preview
+
+![LiquorStore Preview](./preview.png)
+
 ## E-commerce_LiquorStore
 
 ASP.NET Core 6.0 + Angular Material 17.3.10
@@ -28,7 +32,5 @@ This repository contains **only a public project overview**.
 
 > ✅ The full source code is stored in a private repository and is available **on request**.
 
-## Preview
 
-![LiquorStore Preview](./preview.png)
 
