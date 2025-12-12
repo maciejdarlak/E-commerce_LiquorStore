@@ -10,8 +10,6 @@ The full source code is maintained in a private repository and can be shared upo
 
 ![LiquorStore Preview](./preview.png)
 
-### E-commerce_LiquorStore
-
 ## Overview
 
 > This is a web application built with C# and ASP.NET Core 6.0 and Angular Material 17.3.10
@@ -29,12 +27,3 @@ The full source code is maintained in a private repository and can be shared upo
 - Angular 17.3.10
 - Angular Material
 - NgRx (state management)
-
-## Project Status
-
-This repository contains **only a public project overview**.
-
-> ✅ The full source code is stored in a private repository and is available **on request**.
-
-
-
