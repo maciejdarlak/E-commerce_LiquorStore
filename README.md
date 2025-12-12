@@ -1,3 +1,4 @@
+# E-commerce_LiquorStore
 ## Source Code
 
 The full source code is maintained in a private repository and can be shared upon request.
@@ -9,13 +10,11 @@ The full source code is maintained in a private repository and can be shared upo
 
 ![LiquorStore Preview](./preview.png)
 
-## E-commerce_LiquorStore
-
-ASP.NET Core 6.0 + Angular Material 17.3.10
+### E-commerce_LiquorStore
 
 ## Overview
 
-> This is a web application built with C# and ASP.NET Core 6.0.
+> This is a web application built with C# and ASP.NET Core 6.0 and Angular Material 17.3.10
 > The project represents a simple online liquor store application.
 > The main goal of the project was learning full-stack development and application architecture.
 
